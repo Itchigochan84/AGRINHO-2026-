@@ -1,6 +1,6 @@
 # 🌍 Projeto Agrinho 2026
 
-## 📝 Título: Protegendo a Vida da Natureza e da Agropecuária
+## 📝 Protegendo a Vida da Natureza e da Agropecuária
 
 Este site foi desenvolvido como parte do projeto para o **Concurso Agrinho**, com o objetivo de debater o equilíbrio fundamental entre o crescimento da produtividade na agropecuária e a preservação do meio ambiente.
 
